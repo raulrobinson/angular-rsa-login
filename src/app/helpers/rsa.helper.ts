@@ -6,11 +6,11 @@ import * as Forge from 'node-forge';
 })
 export class RSAHelper {
   publicKey: string = `-----BEGIN PUBLIC KEY-----
-  MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCEKfugJmnCR4hvQdF59dOUKyW/
-  5TpNcN1p2dNqtDbEYM9od3/K0MmnN4wk5IGnkaejT1BISRjAIQ7LVUorr/c0UoPQ
-  AWdAXsX12DYxZIpaAQ/J+GMOHXNTcT3bWmZuZXUoR+usP1rlwYwlsimuPmdCXpNn
-  IZGLTEVLs5rFeafNbQIDAQAB
-  -----END PUBLIC KEY-----`;
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZLoFINhwfBFR5IWVLucv9YsKC
+uPpx/DCniIcUtlxYZGqumCQlnVSZbnms/gCRDe2VdL090tJJynENaic5QQE4rQJ5
+3p2+9X6FVDIEkA9ubLbbRbPle9C3f7UK0RTKxpkItlv2MWgFWMpRi0gNdzlHbBET
+U3poMl1VO5+3TU/m8QIDAQAB
+-----END PUBLIC KEY-----`;
 
   constructor() {}
 
